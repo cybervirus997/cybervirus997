@@ -1,4 +1,4 @@
-![alt text](https://i.ibb.co/tcb7jST/Hello-i-m-Soumya-A-fullstack-developer.png)
+<!-- ![alt text](https://i.ibb.co/tcb7jST/Hello-i-m-Soumya-A-fullstack-developer.png) -->
 ### Hello! i'm a fullstack developer
 
 - 🌱 I love writing JavaScript, and building fun experiments/projects on React.js 
