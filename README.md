@@ -20,7 +20,7 @@
 <h3 align = "center"> A passionate MERN stack web developer </h3>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/72969348/136061930-9fa27e6d-1f2f-4f0e-a509-7d2858506ffc.jpg" width="65%" src="" alt="animatation" />
+  <img src="https://user-images.githubusercontent.com/72969348/136061930-9fa27e6d-1f2f-4f0e-a509-7d2858506ffc.jpg" width="30%"src="" alt="animatation" />
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cybervirus997&label=Profile%20views&color=0e75b6&style=flat" alt="cybervirus997" /> </p>
 
