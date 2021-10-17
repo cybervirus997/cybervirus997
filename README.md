@@ -1,60 +1,65 @@
-<!-- ![alt text](https://i.ibb.co/tcb7jST/Hello-i-m-Soumya-A-fullstack-developer.png) -->
-<!-- ### Hello! i'm a fullstack developer
 
-- 🌱 I love writing JavaScript, and building fun experiments/projects on React.js 
-- 🌱 I’m currently learning MERN stack
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Soumya Ranjan Purohit</h1>
+<h3 align="center">I'm a Full Stack Web Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning. Demonstrate the capability of managing clean, elegant, and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms.</h3>
 
-- 📫 How to reach me soumyaranjanpurohit46@gmail.com.
+<p align= "center">
 
-
-
-![cybervirus997's GitHub stats](https://github-readme-stats.vercel.app/api?username=cybervirus997&count_private=true&show_icons=true&theme=synthwave)
-
-
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybervirus997&layout=compact&repo=github-readme-stats" />
-</a> -->
-
-
-<h1 align = "center"> Hi 👋, I'm Soumya Ranjan Purohit </h1>
-<h3 align = "center"> A passionate MERN stack web developer </h3>
+<img src="https://img.shields.io/badge/JS-Javascript-red"/>
+<img src="https://img.shields.io/badge/React-React-blue"/>
+<img src="https://img.shields.io/badge/Node-node-green"/>
+<img src="https://img.shields.io/badge/express-Express-blueviolet"/>
+<img src="https://img.shields.io/badge/Mongodb-mongodb-brightgreen"/>
+</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/72969348/136061930-9fa27e6d-1f2f-4f0e-a509-7d2858506ffc.jpg" width="30%"src="" alt="animatation" />
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cybervirus997&label=Profile%20views&color=0e75b6&style=flat" alt="cybervirus997" /> </p>
-
-<div align="center">
-   <p>  - 🌱 I’m currently learning MERN Stack Development</p>
-   <p> - 💬 Ask me about React, JavaScript, Redux , DS-Algo</p>
-   <p> - 📫 How to reach me soumyaranjanpurohit46@gmail.com</p>
-
-
-
-
-</div>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/soumya-ranjan-purohit-90a3a194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cybervirus997" height="30" width="40" /></a>
-
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
 
 
 <div align="center">
-  <p><img align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=cybervirus997&theme=synthwave" alt="cybervirus997" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cybervirus997&theme=synthwave" alt="cybervirus997" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cybervirus997&theme=synthwave" alt="cybervirus997" /></p>
+   <p> 🌱 I’m currently learning MERN Stack Development</p>
+   <p> 💬 Ask me about React, JavaScript, Redux , DS-Algo</p>
+   <p> 📫 How to reach me soumyaranjanpurohit46@gmail.com</p>
+  <p>🥅 2021 Goals : Learning new things and contribute more</p>
 </div>
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+
+## 🔗 Connect with me:
+<span align="left">
+  <a href="https://www.linkedin.com/in/soumya-ranjan-purohit-90a3a194/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="cybervirus997"/></a>
+      <a href="mailto:soumyaranjanpurohit46@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
+      </a>
+    <p>Call Me: +91-6261384164</p>
+</span>
+
+## ❤ Views and Followers
+<a href="https://github.com/cybervirus997/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=cybervirus997">
+</a>
+<a href="https://github.com/cybervirus997?tab=followers"><img src="https://img.shields.io/github/followers/cybervirus997?label=Followers&style=social" alt="GitHub Badge"></a>
+
+ ## 🚀 Languages and Tools:
+<p > <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+
+
+<div align="left">
+  <p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=cybervirus997&theme=synthwave" alt="cybervirus997" width="47%" />
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cybervirus997&theme=synthwave" alt="cybervirus997" width="47%" />
+  </p>
+</div>
+ 
+ 
+<div align="center">
 <a href="https://github.com/cybervirus997/github-readme-activity-graph"><img alt="cybervirus997's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cybervirus997&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&repo=github-readme-stats" />
 </div>
+  
+<div align="center">
+   <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=cybervirus997&theme=synthwave" alt="cybervirus997" />
+</div>
+
 
