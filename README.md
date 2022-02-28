@@ -20,7 +20,7 @@
    <p> 🌱 I’m currently working as a Software Engg. at Trinkerr</p>
    <p> 💬 Ask me about React, JavaScript, Redux , DS-Algo</p>
    <p> 📫 How to reach me soumyaranjanpurohit46@gmail.com</p>
-  <p>🥅 2021 Goals : Learning new things and contribute more</p>
+  <p>🥅 2022 Goals : Learning new things and contribute more</p>
 </div>
 
 ## 🔗 Links
