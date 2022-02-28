@@ -17,7 +17,7 @@
 
 
 <div align="center">
-   <p> 🌱 I’m currently learning MERN Stack Development</p>
+   <p> 🌱 I’m currently working as a Software Engg. at Trinkerr</p>
    <p> 💬 Ask me about React, JavaScript, Redux , DS-Algo</p>
    <p> 📫 How to reach me soumyaranjanpurohit46@gmail.com</p>
   <p>🥅 2021 Goals : Learning new things and contribute more</p>
