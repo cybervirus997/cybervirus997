@@ -18,9 +18,9 @@
 
 <div align="center">
    <p> 🌱 I’m currently working as a Software Engg. at Trinkerr</p>
-   <p> 💬 Ask me about React, React Native, Next.js ,JavaScript, Typescript ,Redux </p>
+   <p> 💬 Ask me about React, React Native, Next.js , JavaScript, Typescript,Redux </p>
    <p> 📫 How to reach me soumyaranjanpurohit46@gmail.com</p>
-  <p>🥅 2023 Goals : Learning new things and contribute more</p>
+  <p>🥅 2024 Goals : Learning new things and contributing more</p>
 </div>
 
 ## 🔗 Links
@@ -48,7 +48,7 @@
 
 <div align="left">
   <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=cybervirus997&theme=synthwave" alt="cybervirus997" width="47%" />
+<!--     <img align="left" src="https://github-readme-stats.vercel.app/api?username=cybervirus997&theme=synthwave" alt="cybervirus997" width="47%" /> -->
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cybervirus997&theme=synthwave" alt="cybervirus997" width="47%" />
   </p>
 </div>
