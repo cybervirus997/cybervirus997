@@ -48,8 +48,7 @@
 
 <div align="left">
   <p>
-<!--     <img align="left" src="https://github-readme-stats.vercel.app/api?username=cybervirus997&theme=synthwave" alt="cybervirus997" width="47%" /> -->
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cybervirus997&theme=synthwave" alt="cybervirus997" width="47%" />
+<!--     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cybervirus997&theme=synthwave" alt="cybervirus997" width="47%" /> -->
   </p>
 </div>
  
